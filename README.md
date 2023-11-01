@@ -58,9 +58,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or support, please contact [Your Email Address].
+For any questions or support, please contact [me](dakshadeep1234@gmail.com).
 
 Happy quizzing!
 ```
-
-Make sure to replace the placeholders (e.g., `[Your Username]`, `[Your Email Address]`) with your actual information, and customize the README to match your app's specific features and requirements. You may also want to include additional sections or information as needed.
