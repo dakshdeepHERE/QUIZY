@@ -2,7 +2,7 @@
 
 # Quiz App with Kotlin and Jetpack Compose
 
-![Quiz App Screenshot](quiz_app_screenshot.png)
+![Quiz App Screenshot](Screenshots/s2.png)
 
 ## Description
 
