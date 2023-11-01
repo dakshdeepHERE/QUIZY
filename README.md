@@ -34,11 +34,6 @@ This is a Quiz App built using Kotlin and Jetpack Compose. It allows users to ta
 - Select a quiz and answer the questions.
 - View your score and see correct answers after completing the quiz.
 
-## Requirements
-
-- Android Studio (vX.X or higher)
-- Kotlin (vX.X or higher)
-
 ## Dependencies
 
 - Jetpack Compose: A modern Android UI toolkit that simplifies UI development.
