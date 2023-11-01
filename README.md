@@ -46,11 +46,6 @@ If you want to contribute to this project, feel free to open an issue or create 
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Jetpack Compose community and contributors for their amazing work.
-- [Your Acknowledgments or Credits]
-
 ## Contact
 
 For any questions or support, please contact [me](dakshadeep1234@gmail.com).
